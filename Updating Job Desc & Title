@@ -1,0 +1,10 @@
+#Import-Module ActiveDirectory
+#Learn2PowerShell w/ Guan very slowly
+
+#
+#$name = 'gmc'
+#$title = 'Chief Technology Officer'
+
+#set-aduser $name -Description "$title" ; Set-ADUser $name -title "$title"
+#Get-ADUser $name -prop Title,Description
+
